@@ -7,7 +7,7 @@
 </p>
 
 # Capture The Flag Save/Salva Bot
-Extension built to click gate automatically as soon as someone clicks it. This is made for CTF save!
+Extension built to click gate automatically as soon as someone clicks the switch. This is made for CTF save!
 
 1. Paste the 3 DLLs from zip to the dependencies folder of tanji.
 2. Install the exe in tanji modules.
